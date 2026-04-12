@@ -1,4 +1,4 @@
-## Hi, I'm Daniel Madubuihe, a Full-Stack Engineer specializing in React, TypeScript, and modern web ecosystems.
+## Hi, I'm Daniel, a Full-Stack Engineer specializing in React, TypeScript, and modern web ecosystems.
 
 I design and ship high-impact applications that deliver measurable results: building role-based dashboards with secure multi-user access that pushed viewing completion rates above 80%, streamlining complex rental workflows with smart forms and real-time features, and creating analytics platforms that slash decision-making friction through optimized data fetching and error-free invoicing. 
 
