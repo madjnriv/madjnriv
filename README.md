@@ -1,7 +1,6 @@
-# Daniel Madubuihe
-### Think • Plan • Build • Ship
+# Think • Plan • Build • Ship
 
-Full-Stack Engineer focused on building web applications, APIs, and systems that are fast, secure, and built to scale. Currently expanding into mobile development and DevOps practices.
+I'm a Full-Stack Software Engineer focused on building web applications, APIs, and systems that are fast, secure, and built to scale. Currently expanding into mobile development and DevOps practices.
 
 ---
 
