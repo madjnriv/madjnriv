@@ -1,15 +1,10 @@
-# iv9
+## I'm a Full-Stack Software Engineer focused on building web applications, APIs, and systems that are fast, secure, and built to scale. Currently expanding into mobile development and DevOps practices.
 
-
-I'm a Full-Stack Software Engineer focused on building web applications, APIs, and systems that are fast, secure, and built to scale. Currently expanding into mobile development and DevOps practices.
-
----
 
 ## What I Build
 
 Web applications — from responsive React/Next.js interfaces to Node.js/Express backends and PostgreSQL/MongoDB databases. I own the full delivery cycle: architecture, implementation, integration, and deployment.
 
----
 
 ## Current Focus
 
@@ -18,7 +13,6 @@ Web applications — from responsive React/Next.js interfaces to Node.js/Express
 - DevOps — CI/CD pipelines, containerization, and cloud infrastructure (AWS)
 - System design and scalable architecture patterns
 
----
 
 ## Tech
 
@@ -34,7 +28,6 @@ Flutterwave · Stripe
 **Tooling**
 Git · Docker · CI/CD · Arcjet · ImageKit · SendGrid
 
----
 
 ## Projects
 
@@ -46,7 +39,7 @@ Git · Docker · CI/CD · Arcjet · ImageKit · SendGrid
 | Admin Analytics Dashboard | React · Recharts | [nexus-dashboard-sigma.vercel.app](https://nexus-dashboard-sigma.vercel.app) |
 | Weather Dashboard | React · TypeScript · OpenWeatherMap | [klimate-green-gamma.vercel.app](https://klimate-green-gamma.vercel.app) |
 
----
+
 
 ## Get In Touch
 
