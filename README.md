@@ -1,4 +1,5 @@
-# Think • Plan • Build • Ship
+# iv9
+
 
 I'm a Full-Stack Software Engineer focused on building web applications, APIs, and systems that are fast, secure, and built to scale. Currently expanding into mobile development and DevOps practices.
 
