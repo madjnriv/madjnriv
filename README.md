@@ -3,7 +3,7 @@
 
 ## What I Build
 
-Web applications — from responsive React/Next.js interfaces to Node.js/Express backends and PostgreSQL/MongoDB databases. I own the full delivery cycle: architecture, implementation, integration, and deployment.
+Web applications, from responsive React/Next.js interfaces to Node.js/Express backends and PostgreSQL/MongoDB databases. I own the full delivery cycle: architecture, implementation, integration, and deployment.
 
 
 ## Current Focus
