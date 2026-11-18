@@ -44,7 +44,7 @@ Git · Docker · CI/CD · Arcjet · ImageKit · SendGrid
 ## Get In Touch
 
 [danielmadubuihe@gmail.com](mailto:danielmadubuihe@gmail.com)
-[linkedin.com/in/madjnriv](https://linkedin.com/in/madjnriv)
+[linkedin.com/in/buihe](https://linkedin.com/in/buihe)
 <!--
 **MadubuiheJnr/MadubuiheJnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
